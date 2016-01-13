@@ -19,6 +19,11 @@ A curated list of awesome civic tech projects and deployed instances.
   Source: https://github.com/smartchicago/chicagoworksforyou  
   Instances: http://chicagoworksforyou.com/
 
+- [**Open Budget: Oakland**](http://openbudgetoakland.org/) is a project visualizing Oakland's budget data and explaining the budget process.
+
+  Source: https://github.com/openoakland/openbudgetoakland  
+  Instances: http://openbudgetoakland.org/
+
 ## Closed Source Apps
 
 - [**Govtrack**](https://www.govtrack.us/) helps everyone learn about and track the activities of the United States Congress.
