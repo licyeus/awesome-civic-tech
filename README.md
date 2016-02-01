@@ -34,6 +34,10 @@ A curated list of awesome civic tech projects and deployed instances.
 
   Instances: 20+ instances listed at http://wiki.open311.org/GeoReport_v2/Servers/
   
+- [**Local Inspector Value-Entry Specification (LIVES)**](http://www.yelp.com/healthscores) is a restaurant inspection information specification, developed in partnership by Yelp and the cities of San Francisco and New York City.
+
+  Instances: 10+ instances listed at http://www.yelp.com/healthscores/feeds
+
 # Contributing
 
 Contributions welcome! This list accepts only deployed (i.e., completed) civic tech projects. Please follow existing formatting rules and include a link to the project homepage, the project's source code, and any instances of the project.
