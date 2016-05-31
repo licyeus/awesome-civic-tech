@@ -29,6 +29,11 @@ A curated list of awesome civic tech projects and deployed instances.
   Source: https://github.com/OpenDataPolicingNC/Traffic-Stops  
   Instances: https://opendatapolicingnc.com/
 
+- [**The State Decoded**](http://www.statedecoded.com/) is a platform to display legislative data (state codes, court decisions, legislative metadata) to make laws understandable by regular people.
+
+  Source: https://github.com/statedecoded/statedecoded  
+  Instances: 6 instances listed at http://www.statedecoded.com/places/
+
 ## Closed Source Apps
 
 - [**Govtrack**](https://www.govtrack.us/) helps everyone learn about and track the activities of the United States Congress.
