@@ -26,7 +26,7 @@ A curated list of awesome civic tech projects and deployed instances.
 
 - [**Open Data Policing NC**](https://opendatapolicingnc.com/) aggregates, visualizes, and publishes traffic stop data for North Carolina.
 
-  Source: https://github.com/OpenDataPolicingNC/Traffic-Stops
+  Source: https://github.com/OpenDataPolicingNC/Traffic-Stops  
   Instances: https://opendatapolicingnc.com/
 
 ## Closed Source Apps
