@@ -24,6 +24,11 @@ A curated list of awesome civic tech projects and deployed instances.
   Source: https://github.com/openoakland/openbudgetoakland  
   Instances: http://openbudgetoakland.org/
 
+- [**Open Data Policing NC**](https://opendatapolicingnc.com/) aggregates, visualizes, and publishes traffic stop data for North Carolina.
+
+  Source: https://github.com/OpenDataPolicingNC/Traffic-Stops
+  Instances: https://opendatapolicingnc.com/
+
 ## Closed Source Apps
 
 - [**Govtrack**](https://www.govtrack.us/) helps everyone learn about and track the activities of the United States Congress.
