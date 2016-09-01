@@ -48,6 +48,8 @@ A curated list of awesome civic tech projects and deployed instances.
 
   Instances: 10+ instances listed at http://www.yelp.com/healthscores/feeds
 
+- [**Open Permit API Specification**](http://www.openpermit.org/docs/index.html) presents permit information in a standardized format.
+
 # Contributing
 
 Contributions welcome! This list accepts only deployed (i.e., completed) civic tech projects. Please follow existing formatting rules and include a link to the project homepage, the project's source code, and any instances of the project.
